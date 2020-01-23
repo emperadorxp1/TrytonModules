@@ -1,0 +1,748 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:account.account.type,fixed_asset:"
+msgid "Fixed Asset"
+msgstr "Põhivara"
+
+msgctxt "field:account.account.type.template,fixed_asset:"
+msgid "Fixed Asset"
+msgstr "Põhivara"
+
+msgctxt "field:account.asset,account_journal:"
+msgid "Journal"
+msgstr "Andmik"
+
+msgctxt "field:account.asset,comment:"
+msgid "Comment"
+msgstr "Kommentaar"
+
+msgctxt "field:account.asset,company:"
+msgid "Company"
+msgstr "Ettevõte"
+
+msgctxt "field:account.asset,currency_digits:"
+msgid "Currency Digits"
+msgstr "Valuuta numbrikohtade arv"
+
+msgctxt "field:account.asset,customer_invoice_line:"
+msgid "Customer Invoice Line"
+msgstr "Müügiarve rida"
+
+#, fuzzy
+msgctxt "field:account.asset,depreciated_amount:"
+msgid "Depreciated Amount"
+msgstr "Kulumi konto"
+
+#, fuzzy
+msgctxt "field:account.asset,depreciating_value:"
+msgid "Depreciating Value"
+msgstr "Kulumi tabel"
+
+msgctxt "field:account.asset,depreciation_method:"
+msgid "Depreciation Method"
+msgstr "Kulumi meetod"
+
+msgctxt "field:account.asset,end_date:"
+msgid "End Date"
+msgstr "Lõppkuupäev"
+
+msgctxt "field:account.asset,frequency:"
+msgid "Frequency"
+msgstr "Sagedus"
+
+msgctxt "field:account.asset,lines:"
+msgid "Lines"
+msgstr "Read"
+
+msgctxt "field:account.asset,move:"
+msgid "Account Move"
+msgstr "Konto kanne"
+
+msgctxt "field:account.asset,number:"
+msgid "Number"
+msgstr "Number"
+
+msgctxt "field:account.asset,product:"
+msgid "Product"
+msgstr "Toode"
+
+msgctxt "field:account.asset,purchase_date:"
+msgid "Purchase Date"
+msgstr "Ostu kuupäev"
+
+msgctxt "field:account.asset,quantity:"
+msgid "Quantity"
+msgstr "Kogus"
+
+msgctxt "field:account.asset,residual_value:"
+msgid "Residual Value"
+msgstr "Jääkväärtus"
+
+msgctxt "field:account.asset,start_date:"
+msgid "Start Date"
+msgstr "Alguskuupäev"
+
+msgctxt "field:account.asset,state:"
+msgid "State"
+msgstr "Olek"
+
+msgctxt "field:account.asset,supplier_invoice_line:"
+msgid "Supplier Invoice Line"
+msgstr "Hankija arve rida"
+
+msgctxt "field:account.asset,unit:"
+msgid "Unit"
+msgstr "Ühik"
+
+msgctxt "field:account.asset,unit_digits:"
+msgid "Unit Digits"
+msgstr "Ühiku numbriline väärtus"
+
+msgctxt "field:account.asset,update_moves:"
+msgid "Update Moves"
+msgstr "Uuenda kanded"
+
+msgctxt "field:account.asset,value:"
+msgid "Value"
+msgstr "Väärtus"
+
+msgctxt "field:account.asset-update-account.move,asset:"
+msgid "Asset"
+msgstr "Põhivara"
+
+msgctxt "field:account.asset-update-account.move,move:"
+msgid "Move"
+msgstr "Kanne"
+
+msgctxt "field:account.asset.create_moves.start,date:"
+msgid "Date"
+msgstr "Kuupäev"
+
+msgctxt "field:account.asset.line,accumulated_depreciation:"
+msgid "Accumulated Depreciation"
+msgstr "Akumuleeritud kulum"
+
+msgctxt "field:account.asset.line,acquired_value:"
+msgid "Acquired Value"
+msgstr "Soetusmaksumus"
+
+msgctxt "field:account.asset.line,actual_value:"
+msgid "Actual Value"
+msgstr "Tegelik väärtus"
+
+msgctxt "field:account.asset.line,asset:"
+msgid "Asset"
+msgstr "Põhivara"
+
+#, fuzzy
+msgctxt "field:account.asset.line,currency_digits:"
+msgid "Currency Digits"
+msgstr "Valuuta numbrikohtade arv"
+
+msgctxt "field:account.asset.line,date:"
+msgid "Date"
+msgstr "Kuupäev"
+
+msgctxt "field:account.asset.line,depreciable_basis:"
+msgid "Depreciable Basis"
+msgstr "Kulumi baas"
+
+msgctxt "field:account.asset.line,depreciation:"
+msgid "Depreciation"
+msgstr "Kulum"
+
+msgctxt "field:account.asset.line,move:"
+msgid "Account Move"
+msgstr "Konto liikumine"
+
+msgctxt "field:account.asset.print_depreciation_table.start,end_date:"
+msgid "End Date"
+msgstr "Lõppkuupäev"
+
+msgctxt "field:account.asset.print_depreciation_table.start,start_date:"
+msgid "Start Date"
+msgstr "Alguskuupäev"
+
+msgctxt "field:account.asset.update.show_depreciation,amount:"
+msgid "Amount"
+msgstr "Väärtus"
+
+msgctxt "field:account.asset.update.show_depreciation,counterpart_account:"
+msgid "Counterpart Account"
+msgstr "Vastaspoole konto"
+
+msgctxt "field:account.asset.update.show_depreciation,date:"
+msgid "Date"
+msgstr "Kuupäev"
+
+msgctxt "field:account.asset.update.show_depreciation,depreciation_account:"
+msgid "Depreciation Account"
+msgstr "Kulumi konto"
+
+msgctxt "field:account.asset.update.show_depreciation,latest_move_date:"
+msgid "Latest Move Date"
+msgstr "Viimane liikumise kuupäev"
+
+msgctxt "field:account.asset.update.show_depreciation,next_depreciation_date:"
+msgid "Next Depreciation Date"
+msgstr "Järgmine kulumi kuupäev"
+
+msgctxt "field:account.asset.update.start,end_date:"
+msgid "End Date"
+msgstr "Lõppkuupäev"
+
+msgctxt "field:account.asset.update.start,residual_value:"
+msgid "Residual Value"
+msgstr "Jääkväärtus"
+
+msgctxt "field:account.asset.update.start,value:"
+msgid "Asset Value"
+msgstr "Vara väärtus"
+
+msgctxt "field:account.configuration,asset_bymonth:"
+msgid "Month"
+msgstr "Kuu"
+
+msgctxt "field:account.configuration,asset_bymonthday:"
+msgid "Day of the Month"
+msgstr "Päev kalendrikuus"
+
+msgctxt "field:account.configuration,asset_sequence:"
+msgid "Asset Reference Sequence"
+msgstr "Vara viite järjestus"
+
+msgctxt "field:account.configuration.asset_date,asset_bymonth:"
+msgid "Month"
+msgstr "Kuu"
+
+msgctxt "field:account.configuration.asset_date,asset_bymonthday:"
+msgid "Day of the Month"
+msgstr "Päev kalendrikuus"
+
+msgctxt "field:account.configuration.asset_date,company:"
+msgid "Company"
+msgstr "Ettevõte"
+
+msgctxt "field:account.configuration.asset_sequence,asset_sequence:"
+msgid "Asset Reference Sequence"
+msgstr "Vara viite järjestus"
+
+msgctxt "field:account.configuration.asset_sequence,company:"
+msgid "Company"
+msgstr "Ettevõte"
+
+msgctxt "field:account.invoice.line,asset:"
+msgid "Asset"
+msgstr "Põhivara"
+
+msgctxt "field:account.invoice.line,is_assets_depreciable:"
+msgid "Is Assets depreciable"
+msgstr "Kas vara on amortiseeritav"
+
+msgctxt "field:product.category,account_asset:"
+msgid "Account Asset"
+msgstr "Põhivara konto"
+
+msgctxt "field:product.category,account_depreciation:"
+msgid "Account Depreciation"
+msgstr "Kulumi konto"
+
+msgctxt "field:product.category.account,account_asset:"
+msgid "Account Asset"
+msgstr "Põhivara konto"
+
+msgctxt "field:product.category.account,account_depreciation:"
+msgid "Account Depreciation"
+msgstr "Kulumi konto"
+
+msgctxt "field:product.product,depreciable:"
+msgid "Depreciable"
+msgstr "Kuluv"
+
+msgctxt "field:product.product,depreciation_duration:"
+msgid "Depreciation Duration"
+msgstr "Kulumi kestvus"
+
+msgctxt "field:product.template,depreciable:"
+msgid "Depreciable"
+msgstr "Kuluv"
+
+msgctxt "field:product.template,depreciation_duration:"
+msgid "Depreciation Duration"
+msgstr "Kulumi kestvus"
+
+msgctxt "help:account.asset,depreciated_amount:"
+msgid "The amount already depreciated at the start date."
+msgstr ""
+
+msgctxt "help:account.asset,depreciating_value:"
+msgid "The value of the asset at the start date."
+msgstr ""
+
+msgctxt "help:account.asset,value:"
+msgid "The value of the asset when purchased."
+msgstr ""
+
+msgctxt "help:account.asset.update.show_depreciation,date:"
+msgid ""
+"The date must be between the last update/depreciation date and the next "
+"depreciation date."
+msgstr ""
+"Kuupäev peab olema viimase uuendatud/kulumi kuupäeva ja järgmise kulumi "
+"kuupäeva vahel."
+
+msgctxt "help:account.configuration,asset_bymonth:"
+msgid "The month to create the depreciation moves."
+msgstr "Kuu millesse luua kulumi kanded."
+
+msgctxt "help:account.configuration,asset_bymonthday:"
+msgid "The day of the month to create the depreciation moves."
+msgstr "Päev kalendrikuus, millesse luua kulumi kanded."
+
+msgctxt "help:account.configuration.asset_date,asset_bymonth:"
+msgid "The month to create the depreciation moves."
+msgstr "Kuu, millesse luua kulumi kanded."
+
+msgctxt "help:account.configuration.asset_date,asset_bymonthday:"
+msgid "The day of the month to create the depreciation moves."
+msgstr "Kalendrikuu päev, millal luuakse kulumi kanded."
+
+msgctxt "help:product.product,depreciation_duration:"
+msgid "In months"
+msgstr "Kuudes"
+
+msgctxt "help:product.template,depreciation_duration:"
+msgid "In months"
+msgstr "Kuudes"
+
+msgctxt "model:account.asset,name:"
+msgid "Asset"
+msgstr "Põhivara"
+
+msgctxt "model:account.asset-update-account.move,name:"
+msgid "Asset - Update - Move"
+msgstr "Vara - Uuenda - Kanne"
+
+msgctxt "model:account.asset.create_moves.start,name:"
+msgid "Create Moves Start"
+msgstr "Loo kande algus"
+
+msgctxt "model:account.asset.line,name:"
+msgid "Asset Line"
+msgstr "Vara rida"
+
+msgctxt "model:account.asset.print_depreciation_table.start,name:"
+msgid "Asset Depreciation Table Start"
+msgstr "Vara kulumiarvestuste tabeli algus"
+
+msgctxt "model:account.asset.update.show_depreciation,name:"
+msgid "Update Asset Show Depreciation"
+msgstr "Uuenda vara näita kulumit"
+
+msgctxt "model:account.asset.update.start,name:"
+msgid "Update Asset Start"
+msgstr "Uuenda vara alusta"
+
+msgctxt "model:account.configuration.asset_date,name:"
+msgid "Account Configuration Asset Date"
+msgstr "Konto kinnitus vara kuupäev"
+
+msgctxt "model:account.configuration.asset_sequence,name:"
+msgid "Account Configuration Asset Sequence"
+msgstr "Konto seadistuse varade jada"
+
+msgctxt "model:account.journal,name:journal_asset"
+msgid "Asset"
+msgstr "Vara"
+
+msgctxt "model:ir.action,name:act_asset_form"
+msgid "Assets"
+msgstr "Vara"
+
+msgctxt "model:ir.action,name:report_depreciation_table"
+msgid "Depreciation Table"
+msgstr "Kulumi tabel"
+
+msgctxt "model:ir.action,name:wizard_create_moves"
+msgid "Create Assets Moves"
+msgstr "Loo vara kanded"
+
+msgctxt "model:ir.action,name:wizard_print_depreciation_table"
+msgid "Print Depreciation Table"
+msgstr "Prindi kulumi tabel"
+
+msgctxt "model:ir.action,name:wizard_update"
+msgid "Update Asset"
+msgstr "Uuenda vara"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_all"
+msgid "All"
+msgstr "Kõik"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_closed"
+msgid "Closed"
+msgstr "Suletud"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_draft"
+msgid "Draft"
+msgstr "Mustand"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_running"
+msgid "Running"
+msgstr "Jooksev"
+
+msgctxt "model:ir.message,text:msg_asset_delete_draft"
+msgid "You cannot delete asset \"%(asset)s\" because it is not in \"draft\" state."
+msgstr ""
+"Sa ei saa kustutada vara \"%(vara)sid\" kuna see ei ole \"mustandi\" "
+"staatuses."
+
+msgctxt "model:ir.message,text:msg_asset_invoice_line_unique"
+msgid "Invoice line can be used only once on asset."
+msgstr "Arve rida saab vara puhul kasutada ainult üks kord."
+
+msgctxt "model:ir.message,text:msg_asset_running_close_period"
+msgid ""
+"You cannot close period \"%(period)s\" because some assets \"%(assets)s\" "
+"still have lines without move."
+msgstr ""
+"Ei saa sulgeda perioodi \"%(period)s\", kuna mõned varad \"%(assets)s\" "
+"omavad kanneteta ridu."
+
+msgctxt "model:ir.message,text:msg_invoice_line_asset_unique"
+msgid "Asset can be used only once on invoice line."
+msgstr "Vara saab kasutada üks kord arve rea kohta."
+
+msgctxt "model:ir.message,text:msg_purchase_product_missing_account_asset"
+msgid ""
+"To invoice purchase \"%(purchase)s\", you must set an account asset on "
+"product \"%(product)s\"."
+msgstr ""
+"Ostu \"%(ostu)de\" arveldamiseks tuleb määrata tootel \"%(toode)tel\" vara "
+"konto."
+
+msgctxt "model:ir.model.button,confirm:asset_close_button"
+msgid "Are you sure you want to close the asset?"
+msgstr "Oled kindel et tahada vara sulgeda?"
+
+msgctxt "model:ir.model.button,string:asset_clear_lines_button"
+msgid "Clear Lines"
+msgstr "Tühjenda read"
+
+msgctxt "model:ir.model.button,string:asset_close_button"
+msgid "Close"
+msgstr "Sulge"
+
+msgctxt "model:ir.model.button,string:asset_create_lines_button"
+msgid "Create Lines"
+msgstr "Loo read"
+
+msgctxt "model:ir.model.button,string:asset_run_button"
+msgid "Run"
+msgstr "Käivita"
+
+msgctxt "model:ir.model.button,string:asset_update_button"
+msgid "Update Asset"
+msgstr "Uuenda vara"
+
+msgctxt "model:ir.rule.group,name:rule_group_asset"
+msgid "User in company"
+msgstr "Kasutaja ettevõttes"
+
+msgctxt "model:ir.sequence,name:sequence_asset"
+msgid "Asset"
+msgstr "Vara"
+
+msgctxt "model:ir.sequence.type,name:sequence_type_asset"
+msgid "Asset"
+msgstr "Vara"
+
+msgctxt "model:ir.ui.menu,name:menu_asset"
+msgid "Assets"
+msgstr "Varad"
+
+msgctxt "model:ir.ui.menu,name:menu_asset_form"
+msgid "Assets"
+msgstr "Varad"
+
+msgctxt "model:ir.ui.menu,name:menu_create_depreciation_table"
+msgid "Print Depreciation Table"
+msgstr "Prindi kulumi tabel"
+
+msgctxt "model:ir.ui.menu,name:menu_create_moves"
+msgid "Create Assets Moves"
+msgstr "Loo varade kanded"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "("
+msgstr "("
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid ")"
+msgstr ")"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "+"
+msgstr "+"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "-"
+msgstr "-"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "/"
+msgstr "/"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Actual Value"
+msgstr "Tegelik väärtus"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Amortization"
+msgstr "Amortisatsioon"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Amortization Table"
+msgstr "Amortisatsiooni tabel"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Assets"
+msgstr "Varad"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Closing Value"
+msgstr "Sulgemise väärtus"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Company:"
+msgstr "Ettevõte:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Fixed"
+msgstr "Fikseeritud"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "From:"
+msgstr "Alates:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Print Date:"
+msgstr "Prindi kuupäev:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "To:"
+msgstr "Saaja:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Total -"
+msgstr "Kokku -"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "User:"
+msgstr "Kasutaja:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "at"
+msgstr "@"
+
+msgctxt "selection:account.asset,depreciation_method:"
+msgid "Linear"
+msgstr "Lineaarne"
+
+msgctxt "selection:account.asset,frequency:"
+msgid "Monthly"
+msgstr "Kuine"
+
+msgctxt "selection:account.asset,frequency:"
+msgid "Yearly"
+msgstr "Aastane"
+
+msgctxt "selection:account.asset,state:"
+msgid "Closed"
+msgstr "Suletud"
+
+msgctxt "selection:account.asset,state:"
+msgid "Draft"
+msgstr "Mustand"
+
+msgctxt "selection:account.asset,state:"
+msgid "Running"
+msgstr "Jooksev"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "April"
+msgstr "Aprill"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "August"
+msgstr "August"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "December"
+msgstr "Detsember"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "February"
+msgstr "Veebruar"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "January"
+msgstr "Jaanuar"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "July"
+msgstr "Juuli"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "June"
+msgstr "Juuni"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "March"
+msgstr "Märts"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "May"
+msgstr "Mai"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "November"
+msgstr "November"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "October"
+msgstr "Oktoober"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "September"
+msgstr "September"
+
+msgctxt "selection:account.configuration,asset_bymonthday:"
+msgid "First"
+msgstr "Esimene"
+
+msgctxt "selection:account.configuration,asset_bymonthday:"
+msgid "Last"
+msgstr "Viimane"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "April"
+msgstr "Aprill"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "August"
+msgstr "August"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "December"
+msgstr "Detsember"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "February"
+msgstr "Veebruar"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "January"
+msgstr "Jaanuar"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "July"
+msgstr "Juuli"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "June"
+msgstr "Juuni"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "March"
+msgstr "Märts"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "May"
+msgstr "Mai"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "November"
+msgstr "November"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "October"
+msgstr "Oktoober"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "September"
+msgstr "September"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonthday:"
+msgid "First"
+msgstr "Esimene"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonthday:"
+msgid "Last"
+msgstr "Viimane"
+
+msgctxt "selection:account.journal,type:"
+msgid "Asset"
+msgstr "Vara"
+
+msgctxt "view:account.asset.create_moves.start:"
+msgid "Create Assets Moves up to"
+msgstr "Loo vara kanded kuni"
+
+msgctxt "view:account.asset:"
+msgid "Lines"
+msgstr "Read"
+
+msgctxt "view:account.asset:"
+msgid "Other Info"
+msgstr "Muu info"
+
+msgctxt "view:account.configuration:"
+msgid "Asset"
+msgstr "Vara"
+
+msgctxt "view:account.configuration:"
+msgid "Asset Move"
+msgstr "Vara kanne"
+
+msgctxt "view:account.configuration:"
+msgid "Sequence"
+msgstr "Järjestus"
+
+msgctxt "view:product.template:"
+msgid "Depreciation"
+msgstr "Kulum"
+
+msgctxt "wizard_button:account.asset.create_moves,start,create_moves:"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "wizard_button:account.asset.create_moves,start,end:"
+msgid "Cancel"
+msgstr "Tühista"
+
+msgctxt "wizard_button:account.asset.print_depreciation_table,start,end:"
+msgid "Cancel"
+msgstr "Tühista"
+
+msgctxt "wizard_button:account.asset.print_depreciation_table,start,print_:"
+msgid "Print"
+msgstr "Prindi"
+
+msgctxt "wizard_button:account.asset.update,show_move,create_move:"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "wizard_button:account.asset.update,show_move,end:"
+msgid "Cancel"
+msgstr "Tühista"
+
+msgctxt "wizard_button:account.asset.update,start,end:"
+msgid "Cancel"
+msgstr "Tühista"
+
+msgctxt "wizard_button:account.asset.update,start,update_asset:"
+msgid "OK"
+msgstr "OK"

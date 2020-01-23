@@ -1,0 +1,748 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:account.account.type,fixed_asset:"
+msgid "Fixed Asset"
+msgstr ""
+
+msgctxt "field:account.account.type.template,fixed_asset:"
+msgid "Fixed Asset"
+msgstr ""
+
+msgctxt "field:account.asset,account_journal:"
+msgid "Journal"
+msgstr "روزنامه"
+
+msgctxt "field:account.asset,comment:"
+msgid "Comment"
+msgstr "اظهار نظر"
+
+msgctxt "field:account.asset,company:"
+msgid "Company"
+msgstr "شرکت"
+
+msgctxt "field:account.asset,currency_digits:"
+msgid "Currency Digits"
+msgstr "رقم های واحد پول"
+
+msgctxt "field:account.asset,customer_invoice_line:"
+msgid "Customer Invoice Line"
+msgstr "سطرصورتحساب مشتری"
+
+#, fuzzy
+msgctxt "field:account.asset,depreciated_amount:"
+msgid "Depreciated Amount"
+msgstr "حساب استهلاک و اسقاط"
+
+#, fuzzy
+msgctxt "field:account.asset,depreciating_value:"
+msgid "Depreciating Value"
+msgstr "جدول استهلاک"
+
+msgctxt "field:account.asset,depreciation_method:"
+msgid "Depreciation Method"
+msgstr "روش استهلاک و اسقاط"
+
+msgctxt "field:account.asset,end_date:"
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+msgctxt "field:account.asset,frequency:"
+msgid "Frequency"
+msgstr "فرکانس"
+
+msgctxt "field:account.asset,lines:"
+msgid "Lines"
+msgstr "سطرها"
+
+msgctxt "field:account.asset,move:"
+msgid "Account Move"
+msgstr "حساب جابجایی"
+
+msgctxt "field:account.asset,number:"
+msgid "Number"
+msgstr "عدد"
+
+msgctxt "field:account.asset,product:"
+msgid "Product"
+msgstr "محصول"
+
+msgctxt "field:account.asset,purchase_date:"
+msgid "Purchase Date"
+msgstr "تاریخ خرید"
+
+msgctxt "field:account.asset,quantity:"
+msgid "Quantity"
+msgstr "مقدار/تعداد"
+
+msgctxt "field:account.asset,residual_value:"
+msgid "Residual Value"
+msgstr "مقدار باقی مانده"
+
+msgctxt "field:account.asset,start_date:"
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+msgctxt "field:account.asset,state:"
+msgid "State"
+msgstr "وضعیت"
+
+msgctxt "field:account.asset,supplier_invoice_line:"
+msgid "Supplier Invoice Line"
+msgstr "سطرصورتحساب تأمیین کننده"
+
+msgctxt "field:account.asset,unit:"
+msgid "Unit"
+msgstr "واحد"
+
+msgctxt "field:account.asset,unit_digits:"
+msgid "Unit Digits"
+msgstr "ارقام واحد"
+
+msgctxt "field:account.asset,update_moves:"
+msgid "Update Moves"
+msgstr "به روزرسانی جابجایی ها"
+
+msgctxt "field:account.asset,value:"
+msgid "Value"
+msgstr "مقدار"
+
+msgctxt "field:account.asset-update-account.move,asset:"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "field:account.asset-update-account.move,move:"
+msgid "Move"
+msgstr "جابجایی"
+
+msgctxt "field:account.asset.create_moves.start,date:"
+msgid "Date"
+msgstr "تاریخ"
+
+msgctxt "field:account.asset.line,accumulated_depreciation:"
+msgid "Accumulated Depreciation"
+msgstr "استهلاک انباشته شده"
+
+msgctxt "field:account.asset.line,acquired_value:"
+msgid "Acquired Value"
+msgstr "مقدار کسب شده"
+
+msgctxt "field:account.asset.line,actual_value:"
+msgid "Actual Value"
+msgstr "مقدار واقعی"
+
+msgctxt "field:account.asset.line,asset:"
+msgid "Asset"
+msgstr "دارایی"
+
+#, fuzzy
+msgctxt "field:account.asset.line,currency_digits:"
+msgid "Currency Digits"
+msgstr "رقم های واحد پول"
+
+msgctxt "field:account.asset.line,date:"
+msgid "Date"
+msgstr "تاریخ"
+
+msgctxt "field:account.asset.line,depreciable_basis:"
+msgid "Depreciable Basis"
+msgstr "بر اساس استهلاک و اسقاط"
+
+msgctxt "field:account.asset.line,depreciation:"
+msgid "Depreciation"
+msgstr "استهلاک و اسقاط"
+
+msgctxt "field:account.asset.line,move:"
+msgid "Account Move"
+msgstr "حساب جابجایی"
+
+msgctxt "field:account.asset.print_depreciation_table.start,end_date:"
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+msgctxt "field:account.asset.print_depreciation_table.start,start_date:"
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+msgctxt "field:account.asset.update.show_depreciation,amount:"
+msgid "Amount"
+msgstr "مقدار"
+
+msgctxt "field:account.asset.update.show_depreciation,counterpart_account:"
+msgid "Counterpart Account"
+msgstr "رونوشت حساب"
+
+msgctxt "field:account.asset.update.show_depreciation,date:"
+msgid "Date"
+msgstr "تاریخ"
+
+msgctxt "field:account.asset.update.show_depreciation,depreciation_account:"
+msgid "Depreciation Account"
+msgstr "حساب استهلاک و اسقاط"
+
+msgctxt "field:account.asset.update.show_depreciation,latest_move_date:"
+msgid "Latest Move Date"
+msgstr "تاریخ آخرین جابجایی"
+
+msgctxt "field:account.asset.update.show_depreciation,next_depreciation_date:"
+msgid "Next Depreciation Date"
+msgstr "تاریخ استهلاک بعدی"
+
+msgctxt "field:account.asset.update.start,end_date:"
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+msgctxt "field:account.asset.update.start,residual_value:"
+msgid "Residual Value"
+msgstr "مقدار باقی مانده"
+
+msgctxt "field:account.asset.update.start,value:"
+msgid "Asset Value"
+msgstr "مقدار دارایی"
+
+msgctxt "field:account.configuration,asset_bymonth:"
+msgid "Month"
+msgstr "ماه"
+
+msgctxt "field:account.configuration,asset_bymonthday:"
+msgid "Day of the Month"
+msgstr "روز از ماه"
+
+msgctxt "field:account.configuration,asset_sequence:"
+msgid "Asset Reference Sequence"
+msgstr "توالی مرجع دارایی"
+
+msgctxt "field:account.configuration.asset_date,asset_bymonth:"
+msgid "Month"
+msgstr "ماه"
+
+msgctxt "field:account.configuration.asset_date,asset_bymonthday:"
+msgid "Day of the Month"
+msgstr "روز از ماه"
+
+msgctxt "field:account.configuration.asset_date,company:"
+msgid "Company"
+msgstr "شرکت"
+
+msgctxt "field:account.configuration.asset_sequence,asset_sequence:"
+msgid "Asset Reference Sequence"
+msgstr "توالی مرجع دارایی"
+
+msgctxt "field:account.configuration.asset_sequence,company:"
+msgid "Company"
+msgstr "شرکت"
+
+msgctxt "field:account.invoice.line,asset:"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "field:account.invoice.line,is_assets_depreciable:"
+msgid "Is Assets depreciable"
+msgstr "دارایی های مستهلک شدنی"
+
+msgctxt "field:product.category,account_asset:"
+msgid "Account Asset"
+msgstr "حساب دارایی"
+
+msgctxt "field:product.category,account_depreciation:"
+msgid "Account Depreciation"
+msgstr "حساب استهلاک و اسقاط"
+
+msgctxt "field:product.category.account,account_asset:"
+msgid "Account Asset"
+msgstr "حساب دارایی"
+
+msgctxt "field:product.category.account,account_depreciation:"
+msgid "Account Depreciation"
+msgstr "حساب استهلاک و اسقاط"
+
+msgctxt "field:product.product,depreciable:"
+msgid "Depreciable"
+msgstr "مستهلک شدنی"
+
+msgctxt "field:product.product,depreciation_duration:"
+msgid "Depreciation Duration"
+msgstr "دوره استهلاک و اسقاط"
+
+msgctxt "field:product.template,depreciable:"
+msgid "Depreciable"
+msgstr "مستهلک شدنی"
+
+msgctxt "field:product.template,depreciation_duration:"
+msgid "Depreciation Duration"
+msgstr "دوره استهلاک و اسقاط"
+
+msgctxt "help:account.asset,depreciated_amount:"
+msgid "The amount already depreciated at the start date."
+msgstr ""
+
+msgctxt "help:account.asset,depreciating_value:"
+msgid "The value of the asset at the start date."
+msgstr ""
+
+msgctxt "help:account.asset,value:"
+msgid "The value of the asset when purchased."
+msgstr ""
+
+msgctxt "help:account.asset.update.show_depreciation,date:"
+msgid ""
+"The date must be between the last update/depreciation date and the next "
+"depreciation date."
+msgstr ""
+"تاریخ باید بین آخرین تاریخ به روز رسانی / استهلاک و تاریخ انقضا بعدی باشد."
+
+msgctxt "help:account.configuration,asset_bymonth:"
+msgid "The month to create the depreciation moves."
+msgstr "ماه برای ایجاد حرکت های استهلاک."
+
+msgctxt "help:account.configuration,asset_bymonthday:"
+msgid "The day of the month to create the depreciation moves."
+msgstr "روز ماه برای ایجاد حرکت های استهلاک."
+
+msgctxt "help:account.configuration.asset_date,asset_bymonth:"
+msgid "The month to create the depreciation moves."
+msgstr "ماه برای ایجاد حرکت های استهلاک."
+
+msgctxt "help:account.configuration.asset_date,asset_bymonthday:"
+msgid "The day of the month to create the depreciation moves."
+msgstr "روز ماه برای ایجاد حرکت های استهلاک."
+
+msgctxt "help:product.product,depreciation_duration:"
+msgid "In months"
+msgstr "در ماه ها"
+
+msgctxt "help:product.template,depreciation_duration:"
+msgid "In months"
+msgstr "در ماه ها"
+
+msgctxt "model:account.asset,name:"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "model:account.asset-update-account.move,name:"
+msgid "Asset - Update - Move"
+msgstr "دارایی - به روزرسانی - جابجایی"
+
+msgctxt "model:account.asset.create_moves.start,name:"
+msgid "Create Moves Start"
+msgstr "ایجاد شروع جابجایی ها"
+
+msgctxt "model:account.asset.line,name:"
+msgid "Asset Line"
+msgstr "سطر دارایی"
+
+msgctxt "model:account.asset.print_depreciation_table.start,name:"
+msgid "Asset Depreciation Table Start"
+msgstr "جدول شروع استهلاک دارایی"
+
+msgctxt "model:account.asset.update.show_depreciation,name:"
+msgid "Update Asset Show Depreciation"
+msgstr "به روزرسانی نمایش استهلاک دارایی"
+
+msgctxt "model:account.asset.update.start,name:"
+msgid "Update Asset Start"
+msgstr "شروع به روزرسانی دارایی"
+
+msgctxt "model:account.configuration.asset_date,name:"
+msgid "Account Configuration Asset Date"
+msgstr "پیکربندی حساب توالی دارایی"
+
+msgctxt "model:account.configuration.asset_sequence,name:"
+msgid "Account Configuration Asset Sequence"
+msgstr "پیکربندی حساب توالی دارایی"
+
+msgctxt "model:account.journal,name:journal_asset"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "model:ir.action,name:act_asset_form"
+msgid "Assets"
+msgstr "دارایی های"
+
+msgctxt "model:ir.action,name:report_depreciation_table"
+msgid "Depreciation Table"
+msgstr "جدول استهلاک"
+
+msgctxt "model:ir.action,name:wizard_create_moves"
+msgid "Create Assets Moves"
+msgstr "ایجاد جابجایی دارایی ها"
+
+msgctxt "model:ir.action,name:wizard_print_depreciation_table"
+msgid "Print Depreciation Table"
+msgstr "چاپ جدول استهلاک"
+
+msgctxt "model:ir.action,name:wizard_update"
+msgid "Update Asset"
+msgstr "به روزرسانی دارایی"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_all"
+msgid "All"
+msgstr "همه"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_closed"
+msgid "Closed"
+msgstr "بسته شده"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_draft"
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_running"
+msgid "Running"
+msgstr "در حال اجرا"
+
+msgctxt "model:ir.message,text:msg_asset_delete_draft"
+msgid "You cannot delete asset \"%(asset)s\" because it is not in \"draft\" state."
+msgstr ""
+"شما نمی توانید دارایی : \"%(asset)s\" را حذف کنید، زیرا در حالت پیش نویس "
+"نیست."
+
+msgctxt "model:ir.message,text:msg_asset_invoice_line_unique"
+msgid "Invoice line can be used only once on asset."
+msgstr "سطر صورتحساب را می توان تنها یکبار در دارایی استفاده کرد."
+
+msgctxt "model:ir.message,text:msg_asset_running_close_period"
+msgid ""
+"You cannot close period \"%(period)s\" because some assets \"%(assets)s\" "
+"still have lines without move."
+msgstr ""
+"شما نمی توانید دوره : \"%(period)s\" را ببندید، چون بعضی از دارایی های : "
+"\"%(assets)s\" دارای سطرهای بدون جابجایی هستند."
+
+msgctxt "model:ir.message,text:msg_invoice_line_asset_unique"
+msgid "Asset can be used only once on invoice line."
+msgstr "دارایی را می توان تنها یک بار در سطر صورتحساب استفاده کرد."
+
+msgctxt "model:ir.message,text:msg_purchase_product_missing_account_asset"
+msgid ""
+"To invoice purchase \"%(purchase)s\", you must set an account asset on "
+"product \"%(product)s\"."
+msgstr ""
+"برای صورتحساب خرید : \"%(purchase)s\" شما باید حساب دارایی را بر روی محصول :"
+" \"%(product)s\" تنظیم کنید."
+
+#, fuzzy
+msgctxt "model:ir.model.button,confirm:asset_close_button"
+msgid "Are you sure you want to close the asset?"
+msgstr "برای بستن دارایی اطمینان دارید؟"
+
+msgctxt "model:ir.model.button,string:asset_clear_lines_button"
+msgid "Clear Lines"
+msgstr "پاکسازی سطرها"
+
+msgctxt "model:ir.model.button,string:asset_close_button"
+msgid "Close"
+msgstr "بسته"
+
+msgctxt "model:ir.model.button,string:asset_create_lines_button"
+msgid "Create Lines"
+msgstr "ایجاد سطرها"
+
+msgctxt "model:ir.model.button,string:asset_run_button"
+msgid "Run"
+msgstr "اجرا"
+
+msgctxt "model:ir.model.button,string:asset_update_button"
+msgid "Update Asset"
+msgstr "به روزرسانی دارایی"
+
+msgctxt "model:ir.rule.group,name:rule_group_asset"
+msgid "User in company"
+msgstr ""
+
+msgctxt "model:ir.sequence,name:sequence_asset"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "model:ir.sequence.type,name:sequence_type_asset"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "model:ir.ui.menu,name:menu_asset"
+msgid "Assets"
+msgstr "دارایی های"
+
+msgctxt "model:ir.ui.menu,name:menu_asset_form"
+msgid "Assets"
+msgstr "دارایی های"
+
+msgctxt "model:ir.ui.menu,name:menu_create_depreciation_table"
+msgid "Print Depreciation Table"
+msgstr "چاپ جدول استهلاک"
+
+msgctxt "model:ir.ui.menu,name:menu_create_moves"
+msgid "Create Assets Moves"
+msgstr "ایجاد جابجایی دارایی ها"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "("
+msgstr ")"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid ")"
+msgstr "("
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "+"
+msgstr "+"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "-"
+msgstr "-"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "/"
+msgstr "/"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Actual Value"
+msgstr "مقدار واقعی"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Amortization"
+msgstr "استهلاک"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Amortization Table"
+msgstr "جدول استهلاک"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Assets"
+msgstr "دارایی ها"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Closing Value"
+msgstr "ارزش نزدیک"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Company:"
+msgstr "شرکت :"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Fixed"
+msgstr "درست شد"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "From:"
+msgstr "از:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Print Date:"
+msgstr "تاریخ چاپ :"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "To:"
+msgstr "به:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Total -"
+msgstr "مجموع -"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "User:"
+msgstr "کاربر :"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "at"
+msgstr "در"
+
+msgctxt "selection:account.asset,depreciation_method:"
+msgid "Linear"
+msgstr "خطی"
+
+msgctxt "selection:account.asset,frequency:"
+msgid "Monthly"
+msgstr "ماهانه"
+
+msgctxt "selection:account.asset,frequency:"
+msgid "Yearly"
+msgstr "سالانه"
+
+msgctxt "selection:account.asset,state:"
+msgid "Closed"
+msgstr "بسته شده"
+
+msgctxt "selection:account.asset,state:"
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+msgctxt "selection:account.asset,state:"
+msgid "Running"
+msgstr "در حال اجرا"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "April"
+msgstr "آوریل"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "August"
+msgstr "اوت"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "December"
+msgstr "دسامبر"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "February"
+msgstr "فوریه"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "January"
+msgstr "ژانویه"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "July"
+msgstr "جولای"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "June"
+msgstr "ژوئن"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "March"
+msgstr "مارس"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "May"
+msgstr "می"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "November"
+msgstr "نوامبر"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "October"
+msgstr "اکتبر"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "September"
+msgstr "سپتامبر"
+
+msgctxt "selection:account.configuration,asset_bymonthday:"
+msgid "First"
+msgstr "اولین"
+
+msgctxt "selection:account.configuration,asset_bymonthday:"
+msgid "Last"
+msgstr "آخرین"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "April"
+msgstr "آوریل"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "August"
+msgstr "اوت"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "December"
+msgstr "دسامبر"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "February"
+msgstr "فوریه"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "January"
+msgstr "ژانویه"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "July"
+msgstr "جولای"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "June"
+msgstr "ژوئن"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "March"
+msgstr "مارس"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "May"
+msgstr "می"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "November"
+msgstr "نوامبر"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "October"
+msgstr "اکتبر"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "September"
+msgstr "سپتامبر"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonthday:"
+msgid "First"
+msgstr "اولین"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonthday:"
+msgid "Last"
+msgstr "آخرین"
+
+msgctxt "selection:account.journal,type:"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "view:account.asset.create_moves.start:"
+msgid "Create Assets Moves up to"
+msgstr "ایجاد جابجایی دارایی ها تا به"
+
+msgctxt "view:account.asset:"
+msgid "Lines"
+msgstr "سطرها"
+
+msgctxt "view:account.asset:"
+msgid "Other Info"
+msgstr "سایر اطلاعات"
+
+msgctxt "view:account.configuration:"
+msgid "Asset"
+msgstr "دارایی"
+
+msgctxt "view:account.configuration:"
+msgid "Asset Move"
+msgstr "حرکت دارایی"
+
+msgctxt "view:account.configuration:"
+msgid "Sequence"
+msgstr "ادامه"
+
+msgctxt "view:product.template:"
+msgid "Depreciation"
+msgstr "استهلاک"
+
+msgctxt "wizard_button:account.asset.create_moves,start,create_moves:"
+msgid "OK"
+msgstr "قبول"
+
+msgctxt "wizard_button:account.asset.create_moves,start,end:"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "wizard_button:account.asset.print_depreciation_table,start,end:"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "wizard_button:account.asset.print_depreciation_table,start,print_:"
+msgid "Print"
+msgstr "چاپ"
+
+msgctxt "wizard_button:account.asset.update,show_move,create_move:"
+msgid "OK"
+msgstr "قبول"
+
+msgctxt "wizard_button:account.asset.update,show_move,end:"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "wizard_button:account.asset.update,start,end:"
+msgid "Cancel"
+msgstr "انصراف"
+
+msgctxt "wizard_button:account.asset.update,start,update_asset:"
+msgid "OK"
+msgstr "قبول"

@@ -1,0 +1,747 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:account.account.type,fixed_asset:"
+msgid "Fixed Asset"
+msgstr ""
+
+msgctxt "field:account.account.type.template,fixed_asset:"
+msgid "Fixed Asset"
+msgstr ""
+
+msgctxt "field:account.asset,account_journal:"
+msgid "Journal"
+msgstr "Diário"
+
+msgctxt "field:account.asset,comment:"
+msgid "Comment"
+msgstr "Comentário"
+
+msgctxt "field:account.asset,company:"
+msgid "Company"
+msgstr "Empresa"
+
+msgctxt "field:account.asset,currency_digits:"
+msgid "Currency Digits"
+msgstr "Dígitos decimais da moeda"
+
+msgctxt "field:account.asset,customer_invoice_line:"
+msgid "Customer Invoice Line"
+msgstr "Linha da Fatura do Cliente"
+
+#, fuzzy
+msgctxt "field:account.asset,depreciated_amount:"
+msgid "Depreciated Amount"
+msgstr "Conta de Depreciação"
+
+#, fuzzy
+msgctxt "field:account.asset,depreciating_value:"
+msgid "Depreciating Value"
+msgstr "Tabela de Depreciação"
+
+msgctxt "field:account.asset,depreciation_method:"
+msgid "Depreciation Method"
+msgstr "Método de Depreciação"
+
+msgctxt "field:account.asset,end_date:"
+msgid "End Date"
+msgstr "Data de fim"
+
+msgctxt "field:account.asset,frequency:"
+msgid "Frequency"
+msgstr "Frequência"
+
+msgctxt "field:account.asset,lines:"
+msgid "Lines"
+msgstr "Linhas"
+
+msgctxt "field:account.asset,move:"
+msgid "Account Move"
+msgstr "Lançamento Contábil"
+
+msgctxt "field:account.asset,number:"
+msgid "Number"
+msgstr "Número"
+
+msgctxt "field:account.asset,product:"
+msgid "Product"
+msgstr "Produto"
+
+msgctxt "field:account.asset,purchase_date:"
+msgid "Purchase Date"
+msgstr "Data da compra"
+
+msgctxt "field:account.asset,quantity:"
+msgid "Quantity"
+msgstr "Quantidade"
+
+msgctxt "field:account.asset,residual_value:"
+msgid "Residual Value"
+msgstr "Valor Residual"
+
+msgctxt "field:account.asset,start_date:"
+msgid "Start Date"
+msgstr "Data de início"
+
+msgctxt "field:account.asset,state:"
+msgid "State"
+msgstr "Estado"
+
+msgctxt "field:account.asset,supplier_invoice_line:"
+msgid "Supplier Invoice Line"
+msgstr "Linha da Fatura do Fornecedor"
+
+msgctxt "field:account.asset,unit:"
+msgid "Unit"
+msgstr "Unidade"
+
+msgctxt "field:account.asset,unit_digits:"
+msgid "Unit Digits"
+msgstr "Dígitos decimais da unidade"
+
+msgctxt "field:account.asset,update_moves:"
+msgid "Update Moves"
+msgstr "Atualizar Lançamentos"
+
+msgctxt "field:account.asset,value:"
+msgid "Value"
+msgstr "Valor"
+
+msgctxt "field:account.asset-update-account.move,asset:"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "field:account.asset-update-account.move,move:"
+msgid "Move"
+msgstr "Lançamento"
+
+msgctxt "field:account.asset.create_moves.start,date:"
+msgid "Date"
+msgstr "Data"
+
+msgctxt "field:account.asset.line,accumulated_depreciation:"
+msgid "Accumulated Depreciation"
+msgstr "Depreciação Acumulada"
+
+msgctxt "field:account.asset.line,acquired_value:"
+msgid "Acquired Value"
+msgstr "Valor de Aquisição"
+
+msgctxt "field:account.asset.line,actual_value:"
+msgid "Actual Value"
+msgstr "Valor Real"
+
+msgctxt "field:account.asset.line,asset:"
+msgid "Asset"
+msgstr "Ativo"
+
+#, fuzzy
+msgctxt "field:account.asset.line,currency_digits:"
+msgid "Currency Digits"
+msgstr "Dígitos decimais da moeda"
+
+msgctxt "field:account.asset.line,date:"
+msgid "Date"
+msgstr "Data"
+
+msgctxt "field:account.asset.line,depreciable_basis:"
+msgid "Depreciable Basis"
+msgstr "Base de Depreciação"
+
+msgctxt "field:account.asset.line,depreciation:"
+msgid "Depreciation"
+msgstr "Depreciação"
+
+msgctxt "field:account.asset.line,move:"
+msgid "Account Move"
+msgstr "Lançamento Contábil"
+
+msgctxt "field:account.asset.print_depreciation_table.start,end_date:"
+msgid "End Date"
+msgstr "Data de fim"
+
+msgctxt "field:account.asset.print_depreciation_table.start,start_date:"
+msgid "Start Date"
+msgstr "Data de início"
+
+msgctxt "field:account.asset.update.show_depreciation,amount:"
+msgid "Amount"
+msgstr "Montante"
+
+msgctxt "field:account.asset.update.show_depreciation,counterpart_account:"
+msgid "Counterpart Account"
+msgstr "Conta de Contrapartida"
+
+msgctxt "field:account.asset.update.show_depreciation,date:"
+msgid "Date"
+msgstr "Data"
+
+msgctxt "field:account.asset.update.show_depreciation,depreciation_account:"
+msgid "Depreciation Account"
+msgstr "Conta de Depreciação"
+
+msgctxt "field:account.asset.update.show_depreciation,latest_move_date:"
+msgid "Latest Move Date"
+msgstr "Data do Último Lançamento"
+
+msgctxt "field:account.asset.update.show_depreciation,next_depreciation_date:"
+msgid "Next Depreciation Date"
+msgstr "Próxima Data de Depreciação"
+
+msgctxt "field:account.asset.update.start,end_date:"
+msgid "End Date"
+msgstr "Data de fim"
+
+msgctxt "field:account.asset.update.start,residual_value:"
+msgid "Residual Value"
+msgstr "Valor Residual"
+
+msgctxt "field:account.asset.update.start,value:"
+msgid "Asset Value"
+msgstr "Valor do Ativo"
+
+msgctxt "field:account.configuration,asset_bymonth:"
+msgid "Month"
+msgstr "Mês"
+
+msgctxt "field:account.configuration,asset_bymonthday:"
+msgid "Day of the Month"
+msgstr "Dia do Mês"
+
+msgctxt "field:account.configuration,asset_sequence:"
+msgid "Asset Reference Sequence"
+msgstr "Sequência de Referência do Ativo"
+
+msgctxt "field:account.configuration.asset_date,asset_bymonth:"
+msgid "Month"
+msgstr "Mês"
+
+msgctxt "field:account.configuration.asset_date,asset_bymonthday:"
+msgid "Day of the Month"
+msgstr "Dia do Mês"
+
+msgctxt "field:account.configuration.asset_date,company:"
+msgid "Company"
+msgstr "Empresa"
+
+msgctxt "field:account.configuration.asset_sequence,asset_sequence:"
+msgid "Asset Reference Sequence"
+msgstr "Sequência de Referência do Ativo"
+
+msgctxt "field:account.configuration.asset_sequence,company:"
+msgid "Company"
+msgstr "Empresa"
+
+msgctxt "field:account.invoice.line,asset:"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "field:account.invoice.line,is_assets_depreciable:"
+msgid "Is Assets depreciable"
+msgstr "É Ativo depreciável"
+
+msgctxt "field:product.category,account_asset:"
+msgid "Account Asset"
+msgstr "Conta de Ativos"
+
+msgctxt "field:product.category,account_depreciation:"
+msgid "Account Depreciation"
+msgstr "Conta de Depreciação"
+
+msgctxt "field:product.category.account,account_asset:"
+msgid "Account Asset"
+msgstr "Conta de Ativos"
+
+msgctxt "field:product.category.account,account_depreciation:"
+msgid "Account Depreciation"
+msgstr "Conta de Depreciação"
+
+msgctxt "field:product.product,depreciable:"
+msgid "Depreciable"
+msgstr "Depreciável"
+
+msgctxt "field:product.product,depreciation_duration:"
+msgid "Depreciation Duration"
+msgstr "Duração da Depreciação"
+
+msgctxt "field:product.template,depreciable:"
+msgid "Depreciable"
+msgstr "Depreciável"
+
+msgctxt "field:product.template,depreciation_duration:"
+msgid "Depreciation Duration"
+msgstr "Duração da Depreciação"
+
+msgctxt "help:account.asset,depreciated_amount:"
+msgid "The amount already depreciated at the start date."
+msgstr ""
+
+msgctxt "help:account.asset,depreciating_value:"
+msgid "The value of the asset at the start date."
+msgstr ""
+
+msgctxt "help:account.asset,value:"
+msgid "The value of the asset when purchased."
+msgstr ""
+
+msgctxt "help:account.asset.update.show_depreciation,date:"
+msgid ""
+"The date must be between the last update/depreciation date and the next "
+"depreciation date."
+msgstr ""
+"A data deve estar entre a data da última atualização/depreciação e a próxima"
+" data de depreciação."
+
+msgctxt "help:account.configuration,asset_bymonth:"
+msgid "The month to create the depreciation moves."
+msgstr "O mês para criação de movimentos de depreciação."
+
+msgctxt "help:account.configuration,asset_bymonthday:"
+msgid "The day of the month to create the depreciation moves."
+msgstr "O dia do mês para criação de movimentos de depreciação."
+
+msgctxt "help:account.configuration.asset_date,asset_bymonth:"
+msgid "The month to create the depreciation moves."
+msgstr "O mês para criação dos movimentos de depreciação."
+
+msgctxt "help:account.configuration.asset_date,asset_bymonthday:"
+msgid "The day of the month to create the depreciation moves."
+msgstr "O dia do mês para criação de movimentos de depreciação."
+
+msgctxt "help:product.product,depreciation_duration:"
+msgid "In months"
+msgstr "Em meses"
+
+msgctxt "help:product.template,depreciation_duration:"
+msgid "In months"
+msgstr "Em meses"
+
+msgctxt "model:account.asset,name:"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "model:account.asset-update-account.move,name:"
+msgid "Asset - Update - Move"
+msgstr "Ativo - Atualizar - Lançamento"
+
+msgctxt "model:account.asset.create_moves.start,name:"
+msgid "Create Moves Start"
+msgstr "Criar Lançamentos - Início"
+
+msgctxt "model:account.asset.line,name:"
+msgid "Asset Line"
+msgstr "Linha do Ativo"
+
+msgctxt "model:account.asset.print_depreciation_table.start,name:"
+msgid "Asset Depreciation Table Start"
+msgstr "Tabela de Depreciação - Início"
+
+msgctxt "model:account.asset.update.show_depreciation,name:"
+msgid "Update Asset Show Depreciation"
+msgstr "Atualiza Ativos - Mostrar Depreciação"
+
+msgctxt "model:account.asset.update.start,name:"
+msgid "Update Asset Start"
+msgstr "Atualiza Ativos - Início"
+
+msgctxt "model:account.configuration.asset_date,name:"
+msgid "Account Configuration Asset Date"
+msgstr "Configuração de Contas da Data do Ativo"
+
+msgctxt "model:account.configuration.asset_sequence,name:"
+msgid "Account Configuration Asset Sequence"
+msgstr "Configuração de Contas Sequência de Ativo"
+
+msgctxt "model:account.journal,name:journal_asset"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "model:ir.action,name:act_asset_form"
+msgid "Assets"
+msgstr "Ativos"
+
+msgctxt "model:ir.action,name:report_depreciation_table"
+msgid "Depreciation Table"
+msgstr "Tabela de Depreciação"
+
+msgctxt "model:ir.action,name:wizard_create_moves"
+msgid "Create Assets Moves"
+msgstr "Criar Movimentos de Ativos"
+
+msgctxt "model:ir.action,name:wizard_print_depreciation_table"
+msgid "Print Depreciation Table"
+msgstr "Imprimir tabela de depreciação"
+
+msgctxt "model:ir.action,name:wizard_update"
+msgid "Update Asset"
+msgstr "Atualizar Activo"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_all"
+msgid "All"
+msgstr "Todos"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_closed"
+msgid "Closed"
+msgstr "Fechado"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_draft"
+msgid "Draft"
+msgstr "Rascunho"
+
+msgctxt "model:ir.action.act_window.domain,name:act_asset_form_domain_running"
+msgid "Running"
+msgstr "Em execução"
+
+msgctxt "model:ir.message,text:msg_asset_delete_draft"
+msgid "You cannot delete asset \"%(asset)s\" because it is not in \"draft\" state."
+msgstr "Você não pode apagar o ativo \"%(asset)s\", pois o estado não é \"rascunho\"."
+
+msgctxt "model:ir.message,text:msg_asset_invoice_line_unique"
+msgid "Invoice line can be used only once on asset."
+msgstr "A linha da fatura somente pode ser usada uma vez no ativo."
+
+msgctxt "model:ir.message,text:msg_asset_running_close_period"
+msgid ""
+"You cannot close period \"%(period)s\" because some assets \"%(assets)s\" "
+"still have lines without move."
+msgstr ""
+"Você não pode fechar o período \"%(period)s\", pois alguns ativos "
+"\"%(assets)s\" ainda têm linhas sem movimento."
+
+msgctxt "model:ir.message,text:msg_invoice_line_asset_unique"
+msgid "Asset can be used only once on invoice line."
+msgstr "O ativo somente pode ser usado uma vez na linha da fatura."
+
+msgctxt "model:ir.message,text:msg_purchase_product_missing_account_asset"
+msgid ""
+"To invoice purchase \"%(purchase)s\", you must set an account asset on "
+"product \"%(product)s\"."
+msgstr ""
+"Para faturar a compra \"%(purchase)s\", você precisa definir uma conta de "
+"ativo no produto \"%(product)s\"."
+
+#, fuzzy
+msgctxt "model:ir.model.button,confirm:asset_close_button"
+msgid "Are you sure you want to close the asset?"
+msgstr "Are you sure to close the asset?"
+
+msgctxt "model:ir.model.button,string:asset_clear_lines_button"
+msgid "Clear Lines"
+msgstr "Clear Lines"
+
+msgctxt "model:ir.model.button,string:asset_close_button"
+msgid "Close"
+msgstr "Close"
+
+msgctxt "model:ir.model.button,string:asset_create_lines_button"
+msgid "Create Lines"
+msgstr "Create Lines"
+
+msgctxt "model:ir.model.button,string:asset_run_button"
+msgid "Run"
+msgstr "Run"
+
+msgctxt "model:ir.model.button,string:asset_update_button"
+msgid "Update Asset"
+msgstr "Update Asset"
+
+msgctxt "model:ir.rule.group,name:rule_group_asset"
+msgid "User in company"
+msgstr ""
+
+msgctxt "model:ir.sequence,name:sequence_asset"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "model:ir.sequence.type,name:sequence_type_asset"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "model:ir.ui.menu,name:menu_asset"
+msgid "Assets"
+msgstr "Ativos"
+
+msgctxt "model:ir.ui.menu,name:menu_asset_form"
+msgid "Assets"
+msgstr "Ativos"
+
+msgctxt "model:ir.ui.menu,name:menu_create_depreciation_table"
+msgid "Print Depreciation Table"
+msgstr "Imprimir Tabela de Depreciação"
+
+msgctxt "model:ir.ui.menu,name:menu_create_moves"
+msgid "Create Assets Moves"
+msgstr "Criar Movimentos de Ativos"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "("
+msgstr "("
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid ")"
+msgstr ")"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "+"
+msgstr "+"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "-"
+msgstr "-"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "/"
+msgstr "/"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Actual Value"
+msgstr "Valor Atual"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Amortization"
+msgstr "Depreciação"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Amortization Table"
+msgstr "Tabela de Depreciação"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Assets"
+msgstr "Ativos"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Closing Value"
+msgstr "Valor de Fechamento"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Company:"
+msgstr "Empresa:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Fixed"
+msgstr "Fixo"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "From:"
+msgstr "De:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Print Date:"
+msgstr "Data de impressão:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "To:"
+msgstr "Para:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "Total -"
+msgstr "Total -"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "User:"
+msgstr "Usuário:"
+
+msgctxt "report:account.asset.depreciation_table:"
+msgid "at"
+msgstr "em"
+
+msgctxt "selection:account.asset,depreciation_method:"
+msgid "Linear"
+msgstr "Linear"
+
+msgctxt "selection:account.asset,frequency:"
+msgid "Monthly"
+msgstr "Mensal"
+
+msgctxt "selection:account.asset,frequency:"
+msgid "Yearly"
+msgstr "Anual"
+
+msgctxt "selection:account.asset,state:"
+msgid "Closed"
+msgstr "Fechado"
+
+msgctxt "selection:account.asset,state:"
+msgid "Draft"
+msgstr "Rascunho"
+
+msgctxt "selection:account.asset,state:"
+msgid "Running"
+msgstr "Em execução"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "April"
+msgstr "Abril"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "August"
+msgstr "Agosto"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "December"
+msgstr "Dezembro"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "February"
+msgstr "Fevereiro"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "January"
+msgstr "Janeiro"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "July"
+msgstr "Julho"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "June"
+msgstr "Junho"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "March"
+msgstr "Março"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "May"
+msgstr "Maio"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "November"
+msgstr "Novembro"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "October"
+msgstr "Outubro"
+
+msgctxt "selection:account.configuration,asset_bymonth:"
+msgid "September"
+msgstr "Setembro"
+
+msgctxt "selection:account.configuration,asset_bymonthday:"
+msgid "First"
+msgstr "Primeiro"
+
+msgctxt "selection:account.configuration,asset_bymonthday:"
+msgid "Last"
+msgstr "Último"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "April"
+msgstr "Abril"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "August"
+msgstr "Agosto"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "December"
+msgstr "Dezembro"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "February"
+msgstr "Fevereiro"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "January"
+msgstr "Janeiro"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "July"
+msgstr "Julho"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "June"
+msgstr "Junho"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "March"
+msgstr "Março"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "May"
+msgstr "Maio"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "November"
+msgstr "Novembro"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "October"
+msgstr "Outubro"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonth:"
+msgid "September"
+msgstr "Setembro"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonthday:"
+msgid "First"
+msgstr "Primeiro"
+
+msgctxt "selection:account.configuration.asset_date,asset_bymonthday:"
+msgid "Last"
+msgstr "Último"
+
+msgctxt "selection:account.journal,type:"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "view:account.asset.create_moves.start:"
+msgid "Create Assets Moves up to"
+msgstr "Criar Lançamentos de Ativos até"
+
+msgctxt "view:account.asset:"
+msgid "Lines"
+msgstr "Linhas"
+
+msgctxt "view:account.asset:"
+msgid "Other Info"
+msgstr "Outras Informações"
+
+msgctxt "view:account.configuration:"
+msgid "Asset"
+msgstr "Ativo"
+
+msgctxt "view:account.configuration:"
+msgid "Asset Move"
+msgstr "Movimentação de Ativo"
+
+msgctxt "view:account.configuration:"
+msgid "Sequence"
+msgstr "Sequência"
+
+msgctxt "view:product.template:"
+msgid "Depreciation"
+msgstr "Depreciação"
+
+msgctxt "wizard_button:account.asset.create_moves,start,create_moves:"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "wizard_button:account.asset.create_moves,start,end:"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "wizard_button:account.asset.print_depreciation_table,start,end:"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "wizard_button:account.asset.print_depreciation_table,start,print_:"
+msgid "Print"
+msgstr "Imprimir"
+
+msgctxt "wizard_button:account.asset.update,show_move,create_move:"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "wizard_button:account.asset.update,show_move,end:"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "wizard_button:account.asset.update,start,end:"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "wizard_button:account.asset.update,start,update_asset:"
+msgid "OK"
+msgstr "OK"
